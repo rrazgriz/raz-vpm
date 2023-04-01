@@ -6,11 +6,11 @@
     },
     "description":"VPM-Compatible repo for Raz's packages",
     "infoLink":{
-        "url":"https://github.com/rrazgriz/raz-vpm/",
+        "url":"https://vpm.razgriz.one/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "url":"https://rrazgriz.github.io/raz-vpm/index.json",
+    "url":"https://vpm.razgriz.one/index.json",
     "githubRepos":[
         "rrazgriz/harmony-vpm"
     ],
