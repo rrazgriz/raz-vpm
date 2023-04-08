@@ -1,4 +1,4 @@
-# 📦 https://vpm.razgriz.one/ 📥
+# 📦 https://vpm.razgriz.one/ 📥 Add Here withthe latest VCC!
 
 ![GitHub deployments](https://img.shields.io/github/actions/workflow/status/vrchat-community/template-package-listing/build-listing.yml?label=Build%20Package%20Listing)
 
@@ -6,7 +6,7 @@ This repository hosts my [VPM](https://vcc.docs.vrchat.com/vpm/)-Compatible pack
 
 ## Usage With VCC
 ### Adding Repo Listing
-- If you're reading this after VCC 2.1.0 has been released (hopefully by April 8, 2023), just go to https://vpm.razgriz.one/, click `Add to VCC`, and follow the prompts.
+- With the [latest VCC installed](https://vrchat.com/download/vcc), just go to https://vpm.razgriz.one/, click `Add to VCC` at the top, and follow the prompts!
 - Otherwise, make sure you have the [VPM CLI](https://vcc.docs.vrchat.com/vpm/cli) installed, then run the command `vpm add repo https://vpm.razgriz.one/index.json`.
 
 ### Adding Packages to a Project
