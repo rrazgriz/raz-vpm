@@ -18,6 +18,7 @@
         {
             "name":"one.razgriz.rats",
             "releases":[
+                "https://github.com/rrazgriz/RATS/releases/download/1.1.0/one.razgriz.rats-1.1.0.zip"
                 "https://github.com/rrazgriz/RATS/releases/download/1.0.1/one.razgriz.rats-1.0.1.zip"
             ]
         }
